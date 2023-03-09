@@ -1,6 +1,11 @@
-<h1>Titulo ou Arte do Projeto</h1> 
+
+
+
 
 <p align="center">
+<h1><img src="imgs/icones/logo/fatecanos.png" width="50"> Fatecanos Site </h1> 
+
+
   <img src="https://img.shields.io/static/v1?label=%3CHTML%3E&message=%3C/%3E&color=%3Cblue%3E"/>
 </p>
 
